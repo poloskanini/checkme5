@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <h1>En ce moment</h1>
+  <h1>En ce moment depuis chez moi</h1>
   <strong>Cliquer sur une couleur</strong>
   <ul class="cards">
   <li>
