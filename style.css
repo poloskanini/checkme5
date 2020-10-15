@@ -1,0 +1,35 @@
+body {
+  padding: 20px;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
+.card {
+  cursor: pointer;
+  margin: 20px;
+  height: 80px;
+  width: 100px;
+  border: 1px solid black;
+  box-shadow: 0px 0px 35px grey;
+}
+.purple {
+    background: #3b1f2b;
+}
+.blue {
+    background: #8e94f2;
+}
+.red {
+    background: #9a031e;
+}
+.inchworm {
+    background: #c2f970;
+}
+.feldgrau {
+    background: #4c5b5c;
+}
+.gris {
+    background: #c0babc;
+}
